@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 cd druxtjs/packages/breadcrumb
 npm link
 cd ../docgen
